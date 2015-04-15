@@ -2,7 +2,7 @@
 title: Simplified Trade
 email: sales@simplifiedtrade.com
 url: http://www.simplifiedtrade.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "We are a Software as a Service (SaaS) start-up focused on consumer package goods and grocery forecasting and marketing"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -16,7 +16,7 @@ footer: Your Website
 social:
   - title: twitter
     url: https://twitter.com/_simple_trade
-  - title: facebook
+<!--  - title: facebook
     url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
@@ -24,7 +24,7 @@ social:
     url: http://bitbucket.org/jekyll
   - title: github
     url: https://github.com/IronSummitMedia/startbootstrap
-
+-->
 # Build settings
 markdown: kramdown
 permalink: pretty
