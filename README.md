@@ -14,4 +14,7 @@ For more details, read the [documentation](http://jekyllrb.com/)
 
 Forked by Kevin @ simplified trade
 
-backgroud website image @ CC Zero License from unsp [Image Source](https://download.unsplash.com/31/RpgvvtYAQeqAIs1knERU_vegetables.jpg) [Image License](https://unsplash.com/license)
+backgroud website image CC Zero License from unsplash.com [Image Source](https://download.unsplash.com/31/RpgvvtYAQeqAIs1knERU_vegetables.jpg) [Image License](https://unsplash.com/license)
+
+
+Grayscale template from jekylltemplates.org Apache 2.0 License 
